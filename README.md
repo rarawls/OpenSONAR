@@ -39,7 +39,7 @@ HOW TO RUN OpenSONAR
 	
 	NOTE TO LINUX USERS
 	
-	To start JWolf Pack in Linux, you open a terminal or console and 
+	To start OpenSONAR in Linux, you open a terminal or console and 
 	change to the directory where you saved the .jar file.  You then
 	issue the command 'java -jar OpenSONAR_vX.jar' to start the 
 	program.  Alternatively, you can right click the .jar and open
