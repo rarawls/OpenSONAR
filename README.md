@@ -1,6 +1,7 @@
-# OpenSONAR
+# OpenSONAR #
 Simple command-line simulator for time motion analysis (sub hunting)
 
+## Why? ##
 OpenSONAR is a command-line-only program designed to
 aid instructors in running submarine combat simulations.  It was
 designed for, and tested in, the classroom environment.  The intent
@@ -18,7 +19,7 @@ If you are interested in extending the functionality of the program,
 the source is bundled in the .jar file.  If you have any questions,
 you may reach me at the above e-mail address.
 	
-HOW TO RUN OpenSONAR
+## HOW TO RUN OpenSONAR ##
 	
 If you're using Windows, and you have Java installed, you should 
 only have to double click the 'OpenSONAR_v.X.jar' file. Note that
@@ -27,7 +28,7 @@ in the same directory the program resides. This file is required
 to be in the same directory as the program if you want to keep
 your progress saved each time you run the program.
 
-NOTE TO LINUX USERS
+## NOTE TO LINUX USERS ##
 
 To start OpenSONAR in Linux, you open a terminal or console and 
 change to the directory where you saved the .jar file.  You then
